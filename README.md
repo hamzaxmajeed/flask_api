@@ -19,7 +19,7 @@ python api.py
 
 After running the application, try out the filtering functionality with these HTTP requests:
 
-[All books](http://127.0.0.1:5000/api/v1/resources/books/all)
-[Author: Connie Willis](http://127.0.0.1:5000/api/v1/resources/books?author=Connie+Willis)
-[Author: Connie Willis & Published: 1999](http://127.0.0.1:5000/api/v1/resources/books?author=Connie+Willis&published=1999)
+[All books](http://127.0.0.1:5000/api/v1/resources/books/all)\
+[Author: Connie Willis](http://127.0.0.1:5000/api/v1/resources/books?author=Connie+Willis)\
+[Author: Connie Willis & Published: 1999](http://127.0.0.1:5000/api/v1/resources/books?author=Connie+Willis&published=1999)\
 [Published: 2019](http://127.0.0.1:5000/api/v1/resources/books?published=2010)
